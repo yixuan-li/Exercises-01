@@ -1,0 +1,2 @@
+Trial in using Git bash!
+Hello World!
